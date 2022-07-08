@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flag Quiz</string>
+    <string name="welcome">WELCOME TO FLAG QUIZ</string>
+    <string name="start">START QUIZ</string>
+    <string name="play">PLAY AGAIN</string>
+    <string name="quit">QUIT</string>
+</resources>
